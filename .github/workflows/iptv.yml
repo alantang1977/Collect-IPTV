@@ -2,7 +2,7 @@ name: IPTV Daily Update
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  
+    - cron: '30 5 * * 1,5'  
   workflow_dispatch: 
   
 env:
