@@ -288,6 +288,7 @@ if __name__ == "__main__":
     file_urls = [
         "https://gh.tryxd.cn/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959",
         "https://7337.kstore.space/twkj/tvzb.txt",
+        "https://git.gra.phite.ro/alantang/CF-IPTV/raw/branch/main/allinone.m3u",
         "http://aktv.space/live.m3u",
         "https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u",
         "https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
