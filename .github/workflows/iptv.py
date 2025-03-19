@@ -300,6 +300,7 @@ if __name__ == "__main__":
     # 省份频道文件列表
     province_channel_files = [
         ".github/workflows/IPTV/重庆频道.txt",
+        ".github/workflows/IPTV/港澳台频道.txt",
         ".github/workflows/IPTV/四川频道.txt",
         ".github/workflows/IPTV/云南频道.txt",
         ".github/workflows/IPTV/安徽频道.txt",
