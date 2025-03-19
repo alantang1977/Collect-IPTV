@@ -1,7 +1,8 @@
 # 📡Collect-IPTV
 利用DeepSeek和ChatGPT生成的IPTV节目源收集程序，Github服务器测试可用性和延迟性，m3u每4小时自动更新,代码优化中😊！
 ## 📺️TV station list
-https://zilong7728.github.io/Collect-IPTV/
+🚜🧧🧧🧧🧧🧧🧧🚕
+https://cdn.jsdelivr.net/gh/alantang1977/Collect-IPTV@main/best_sorted.m3u
 ## ⏱️Last Run Time
 <!-- Last Run Time --> 2025-03-19 14:59:17 CST
 ## 🔗Generated File Link
@@ -9,4 +10,4 @@ https://zilong7728.github.io/Collect-IPTV/
 
 ## ⭐️Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zilong7728/Collect-IPTV&type=Date)](https://star-history.com/#zilong7728/Collect-IPTV&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=alantang1977/Collect-IPTV&type=Date)](https://star-history.com/#alantang1977/Collect-IPTV&Date)
