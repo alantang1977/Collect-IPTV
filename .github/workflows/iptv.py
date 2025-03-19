@@ -26,7 +26,7 @@ def contains_date(text):
 CONFIG = {
     "timeout": 10,  # Timeout in seconds
     "max_parallel": 30,  # Max concurrent requests
-    "output_file": "best_sorted.m3u",  # Output file for the sorted M3U
+    "output_file": "mylive.m3u",  # Output file for the sorted M3U
     "iptv_directory": "IPTV"  # Directory containing IPTV files
 }
 
