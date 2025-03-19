@@ -286,10 +286,15 @@ async def main(file_urls, cctv_channel_file, province_channel_files):
 if __name__ == "__main__":
     # IPTV 文件 URL（您可以添加自己的文件 URL 列表）
     file_urls = [
+        "https://gh.tryxd.cn/https://raw.githubusercontent.com/tianya7981/jiekou/refs/heads/main/野火959",
+        "https://7337.kstore.space/twkj/tvzb.txt",
+        "http://aktv.space/live.m3u",
+        "https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u",
+        "https://gh.tryxd.cn/https://raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u",
         "https://tzdr.com/iptv.txt",
         "https://live.kilvn.com/iptv.m3u",
-        "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
-        "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+        "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.txt",
+        "https://gh.tryxd.cn/https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
         "http://175.178.251.183:6689/live.m3u",
         "https://m3u.ibert.me/ycl_iptv.m3u"
     ]
