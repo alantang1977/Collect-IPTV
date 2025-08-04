@@ -29,6 +29,8 @@ http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
 http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.cn/tv/CNA.png" group-title="其他频道",CNA
 http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+#EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="https://live.fanmingming.cn/tv/Celestial Movies.png" group-title="其他频道",Celestial Movies
+http://s1.an94tv.cfd/astro/celestialmovies/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.cn/tv/Channel 5 HD.png" group-title="其他频道",Channel 5 HD
 http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://live.fanmingming.cn/tv/Channel 8 HD.png" group-title="其他频道",Channel 8 HD
@@ -67,12 +69,14 @@ http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVBS新聞" tvg-logo="https://live.fanmingming.cn/tv/TVBS新聞.png" group-title="其他频道",TVBS新聞
 http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="VIUTV1" tvg-logo="https://live.fanmingming.cn/tv/VIUTV1.png" group-title="其他频道",VIUTV1
+http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8
+#EXTINF:-1 tvg-name="Viu6" tvg-logo="https://live.fanmingming.cn/tv/Viu6.png" group-title="其他频道",Viu6
+http://s1.an94tv.cfd/aktv2/viu6/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲台.png" group-title="其他频道",中天亚洲台
 http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="其他频道",中天新闻台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
-#EXTINF:-1 tvg-name="天映电影" tvg-logo="https://live.fanmingming.cn/tv/天映电影.png" group-title="其他频道",天映电影
-http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="天映經典(1080)" tvg-logo="https://live.fanmingming.cn/tv/天映經典(1080).png" group-title="其他频道",天映經典(1080)
 http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 #EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://live.fanmingming.cn/tv/好萊塢電影台.png" group-title="其他频道",好萊塢電影台
@@ -91,6 +95,8 @@ http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
 http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://live.fanmingming.cn/tv/無線新聞台.png" group-title="其他频道",無線新聞台
 http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="緯來電影台" tvg-logo="https://live.fanmingming.cn/tv/緯來電影台.png" group-title="其他频道",緯來電影台
+http://s1.an94tv.cfd/aktv2/CH-4/AKTV.m3u8
 #EXTINF:-1 tvg-name="緯來體育台" tvg-logo="https://live.fanmingming.cn/tv/緯來體育台.png" group-title="其他频道",緯來體育台
 http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠一台(北美)" tvg-logo="https://live.fanmingming.cn/tv/翡翠一台(北美).png" group-title="其他频道",翡翠一台(北美)
@@ -101,6 +107,8 @@ http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
 http://s1.an94tv.cfd/aktv/CH-7/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="https://live.fanmingming.cn/tv/翡翠综合台(北美).png" group-title="其他频道",翡翠综合台(北美)
 http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://live.fanmingming.cn/tv/華視.png" group-title="其他频道",華視
+http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://live.fanmingming.cn/tv/鳳凰衛視中文台.png" group-title="其他频道",鳳凰衛視中文台
 http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://live.fanmingming.cn/tv/鳳凰衛視資訊台.png" group-title="其他频道",鳳凰衛視資訊台
