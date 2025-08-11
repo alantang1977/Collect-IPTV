@@ -9,6 +9,8 @@ http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.cn/tv/tvN.png" group-title="港澳台频道",tvN
 http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://live.fanmingming.cn/tv/寰宇新聞台.png" group-title="港澳台频道",寰宇新聞台
+http://s1.an94tv.cfd/zhongtian/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png" group-title="港澳台频道",明珠台
 http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://live.fanmingming.cn/tv/東森新聞.png" group-title="港澳台频道",東森新聞
@@ -75,10 +77,14 @@ http://s1.an94tv.cfd/taiwan/tvbs-1/AKTV.m3u8
 http://s1.an94tv.cfd/aktv2/viutv1/AKTV.m3u8
 #EXTINF:-1 tvg-name="Viu6" tvg-logo="https://live.fanmingming.cn/tv/Viu6.png" group-title="其他频道",Viu6
 http://s1.an94tv.cfd/aktv2/viu6/AKTV.m3u8
+#EXTINF:-1 tvg-name="三立LIVE" tvg-logo="https://live.fanmingming.cn/tv/三立LIVE.png" group-title="其他频道",三立LIVE
+http://s1.an94tv.cfd/zhongtian/live/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲台.png" group-title="其他频道",中天亚洲台
 http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.cn/tv/中天新闻台.png" group-title="其他频道",中天新闻台
 http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+#EXTINF:-1 tvg-name="国际空间站 (NASA)" tvg-logo="https://live.fanmingming.cn/tv/国际空间站 (NASA).png" group-title="其他频道",国际空间站 (NASA)
+http://s1.an94tv.cfd/zhongtian/nasa/AKTV.m3u8
 #EXTINF:-1 tvg-name="天映經典(1080)" tvg-logo="https://live.fanmingming.cn/tv/天映經典(1080).png" group-title="其他频道",天映經典(1080)
 http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 #EXTINF:-1 tvg-name="好萊塢電影台" tvg-logo="https://live.fanmingming.cn/tv/好萊塢電影台.png" group-title="其他频道",好萊塢電影台
