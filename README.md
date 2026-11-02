@@ -7,7 +7,7 @@
 🚜🧧🧧🧧🧧🧧🧧🚕
 https://cdn.jsdelivr.net/gh/alantang1977/Collect-IPTV@main/best_sorted.m3u
 ## ⏱️Last Run Time
-<!-- Last Run Time --> 2026-10-30 19:32:15 CST
+<!-- Last Run Time --> 2026-11-02 21:45:41 CST
 ## 🔗Generated File Link
 <!-- Generated File Link --> [View Generated File](https://raw.githubusercontent.com/alantang1977/Collect-IPTV/refs/heads/main/mylive.m3u)
 
